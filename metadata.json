@@ -1,0 +1,6 @@
+{
+  "name": "Wheysted",
+  "description": "Wheysted - India's premium clean whey protein and sports nutrition store. 100% authentic CFM isolates, organic plant proteins, lab-tested batches, and instant protein calculator in INR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
